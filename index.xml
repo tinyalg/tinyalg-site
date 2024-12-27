@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Your Gateway to Embedded Tools and Insights on Tinyalg Developer Hub</title><link>https://dev.tinyalg.be/</link><description>Recent content in Your Gateway to Embedded Tools and Insights on Tinyalg Developer Hub</description><generator>Hugo</generator><language>en</language><atom:link href="https://dev.tinyalg.be/index.xml" rel="self" type="application/rss+xml"/><item><title>Why the Code is Developer-Friendly?</title><link>https://dev.tinyalg.be/docs/tyzr/developer-friendly-code/</link><pubDate>Fri, 27 Dec 2024 14:00:00 +0900</pubDate><guid>https://dev.tinyalg.be/docs/tyzr/developer-friendly-code/</guid><description>&lt;h1 id="why-the-code-is-developer-friendly">
+ Why the Code is Developer-Friendly?
+ &lt;a class="anchor" href="#why-the-code-is-developer-friendly">#&lt;/a>
+&lt;/h1>
+&lt;h2 id="six-reasons-why-tyzr-code-stands-out-for-developers">
+ Six Reasons Why Tyzr Code Stands Out for Developers
+ &lt;a class="anchor" href="#six-reasons-why-tyzr-code-stands-out-for-developers">#&lt;/a>
+&lt;/h2>
+&lt;p>The &lt;a href="https://github.com/tinyalg/tyzr">Tyzr codebase&lt;/a> is designed with clarity and simplicity in mind, making it approachable for developers of varying skill levels. Here&amp;rsquo;s why it is developer-friendly:&lt;/p>
+&lt;h3 id="1-clear-separation-of-concerns">
+ 1. Clear Separation of Concerns
+ &lt;a class="anchor" href="#1-clear-separation-of-concerns">#&lt;/a>
+&lt;/h3>
+&lt;p>Each function is designed to handle a specific task, such as:&lt;/p>
+&lt;ul>
+&lt;li>&lt;strong>&lt;code>updateDisplay&lt;/code>&lt;/strong>: Updates the timer display on the LCD.&lt;/li>
+&lt;li>&lt;strong>&lt;code>setupGpio&lt;/code>&lt;/strong>: Configures GPIO pins for debug or peripheral control.&lt;/li>
+&lt;li>&lt;strong>&lt;code>handleEvents&lt;/code>&lt;/strong>: Manages button interactions and phase transitions.&lt;/li>
+&lt;/ul>
+&lt;p>This modular approach keeps the code organized and easier to follow.&lt;/p></description></item><item><title>Licenses</title><link>https://dev.tinyalg.be/docs/licenses/</link><pubDate>Fri, 27 Dec 2024 17:00:00 +0900</pubDate><guid>https://dev.tinyalg.be/docs/licenses/</guid><description>&lt;h2 id="licenses">
+ Licenses
+ &lt;a class="anchor" href="#licenses">#&lt;/a>
+&lt;/h2>
+&lt;p>Tinyalg Systems projects are licensed under the following terms:&lt;/p>
+&lt;hr>
+&lt;h3 id="documentation-cc-by-nc-nd-40">
+ Documentation: CC BY-NC-ND 4.0
+ &lt;a class="anchor" href="#documentation-cc-by-nc-nd-40">#&lt;/a>
+&lt;/h3>
+&lt;p>The documentation on &lt;a href="https://dev.tinyalg.be">dev.tinyalg.be&lt;/a> is licensed under &lt;strong>Creative Commons Attribution-NonCommercial-NoDerivatives 4.0&lt;/strong>.&lt;br>
+You may share it non-commercially without modifications, with proper attribution:&lt;/p>
+&lt;div class="highlight">&lt;pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;">&lt;code class="language-markdown" data-lang="markdown">&lt;span style="display:flex;">&lt;span>Documentation by Tinyalg Systems, licensed under CC BY-NC-ND 4.0. Source: https://dev.tinyalg.be.
+&lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/div>&lt;p>Learn more at the &lt;a href="https://creativecommons.org/licenses/by-nc-nd/4.0/">CC BY-NC-ND 4.0 License page&lt;/a>.&lt;/p>
+&lt;hr>
+&lt;h3 id="software-bsd-3-clause">
+ Software: BSD 3-Clause
+ &lt;a class="anchor" href="#software-bsd-3-clause">#&lt;/a>
+&lt;/h3>
+&lt;p>All software is licensed under the &lt;strong>BSD 3-Clause License&lt;/strong>, allowing use, modification, and redistribution with attribution.&lt;/p></description></item></channel></rss>

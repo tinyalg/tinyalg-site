@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Docs on Tinyalg Developer Hub</title><link>https://dev.tinyalg.be/docs/</link><description>Recent content in Docs on Tinyalg Developer Hub</description><generator>Hugo</generator><language>en</language><lastBuildDate>Fri, 27 Dec 2024 17:38:27 +0900</lastBuildDate><atom:link href="https://dev.tinyalg.be/docs/index.xml" rel="self" type="application/rss+xml"/><item><title>Licenses</title><link>https://dev.tinyalg.be/docs/licenses/</link><pubDate>Fri, 27 Dec 2024 17:00:00 +0900</pubDate><guid>https://dev.tinyalg.be/docs/licenses/</guid><description>&lt;h2 id="licenses">
+ Licenses
+ &lt;a class="anchor" href="#licenses">#&lt;/a>
+&lt;/h2>
+&lt;p>Tinyalg Systems projects are licensed under the following terms:&lt;/p>
+&lt;hr>
+&lt;h3 id="documentation-cc-by-nc-nd-40">
+ Documentation: CC BY-NC-ND 4.0
+ &lt;a class="anchor" href="#documentation-cc-by-nc-nd-40">#&lt;/a>
+&lt;/h3>
+&lt;p>The documentation on &lt;a href="https://dev.tinyalg.be">dev.tinyalg.be&lt;/a> is licensed under &lt;strong>Creative Commons Attribution-NonCommercial-NoDerivatives 4.0&lt;/strong>.&lt;br>
+You may share it non-commercially without modifications, with proper attribution:&lt;/p>
+&lt;div class="highlight">&lt;pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;">&lt;code class="language-markdown" data-lang="markdown">&lt;span style="display:flex;">&lt;span>Documentation by Tinyalg Systems, licensed under CC BY-NC-ND 4.0. Source: https://dev.tinyalg.be.
+&lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/div>&lt;p>Learn more at the &lt;a href="https://creativecommons.org/licenses/by-nc-nd/4.0/">CC BY-NC-ND 4.0 License page&lt;/a>.&lt;/p>
+&lt;hr>
+&lt;h3 id="software-bsd-3-clause">
+ Software: BSD 3-Clause
+ &lt;a class="anchor" href="#software-bsd-3-clause">#&lt;/a>
+&lt;/h3>
+&lt;p>All software is licensed under the &lt;strong>BSD 3-Clause License&lt;/strong>, allowing use, modification, and redistribution with attribution.&lt;/p></description></item></channel></rss>
