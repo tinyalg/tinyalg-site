@@ -1,9 +1,9 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Explore, Experiment, and Innovate with Microcontrollers on Tinyalg Developer Hub</title><link>https://dev.tinyalg.be/docs/</link><description>Recent content in Explore, Experiment, and Innovate with Microcontrollers on Tinyalg Developer Hub</description><generator>Hugo</generator><language>en</language><atom:link href="https://dev.tinyalg.be/docs/index.xml" rel="self" type="application/rss+xml"/><item><title>About Tinyalg</title><link>https://dev.tinyalg.be/docs/about-tinyalg/</link><pubDate>Tue, 31 Dec 2024 08:00:00 +0900</pubDate><guid>https://dev.tinyalg.be/docs/about-tinyalg/</guid><description>&lt;h1 id="about-tinyalg-systems">
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Docs on Waveu: Crafting Waveforms with ESP32</title><link>https://waveu.tinyalg.be/docs/</link><description>Recent content in Docs on Waveu: Crafting Waveforms with ESP32</description><generator>Hugo</generator><language>en</language><lastBuildDate>Thu, 23 Jan 2025 09:11:29 +0900</lastBuildDate><atom:link href="https://waveu.tinyalg.be/docs/index.xml" rel="self" type="application/rss+xml"/><item><title>About Tinyalg</title><link>https://waveu.tinyalg.be/docs/about-tinyalg/</link><pubDate>Tue, 31 Dec 2024 08:00:00 +0900</pubDate><guid>https://waveu.tinyalg.be/docs/about-tinyalg/</guid><description>&lt;h1 id="about-tinyalg-systems">
  About Tinyalg Systems
  &lt;a class="anchor" href="#about-tinyalg-systems">#&lt;/a>
 &lt;/h1>
 &lt;p>Tinyalg stands for &amp;ldquo;tiny algorithms.&amp;rdquo; Even smaller—tiny—programs that implement useful algorithms, which you can understand top to bottom, can create impactful solutions when equipped with practical approaches. Our philosophy is rooted in making complex concepts accessible and actionable, enabling developers to create meaningful innovations.&lt;/p>
-&lt;p>This philosophy drives everything we do at Tinyalg Systems, forming the foundation of our missions. These missions define our commitment to empowering developers and creating impactful solutions:&lt;/p></description></item><item><title>Licenses</title><link>https://dev.tinyalg.be/docs/licenses/</link><pubDate>Fri, 27 Dec 2024 17:00:00 +0900</pubDate><guid>https://dev.tinyalg.be/docs/licenses/</guid><description>&lt;h2 id="licenses">
+&lt;p>This philosophy drives everything we do at Tinyalg Systems, forming the foundation of our missions. These missions define our commitment to empowering developers and creating impactful solutions:&lt;/p></description></item><item><title>Licenses</title><link>https://waveu.tinyalg.be/docs/licenses/</link><pubDate>Fri, 27 Dec 2024 17:00:00 +0900</pubDate><guid>https://waveu.tinyalg.be/docs/licenses/</guid><description>&lt;h2 id="licenses">
  Licenses
  &lt;a class="anchor" href="#licenses">#&lt;/a>
 &lt;/h2>
@@ -13,9 +13,9 @@
  Documentation: CC BY-NC-ND 4.0
  &lt;a class="anchor" href="#documentation-cc-by-nc-nd-40">#&lt;/a>
 &lt;/h3>
-&lt;p>The documentation on &lt;a href="https://dev.tinyalg.be">dev.tinyalg.be&lt;/a> is licensed under &lt;strong>Creative Commons Attribution-NonCommercial-NoDerivatives 4.0&lt;/strong>.&lt;br>
+&lt;p>The documentation on &lt;a href="https://waveu.tinyalg.be">waveu.tinyalg.be&lt;/a> is licensed under &lt;strong>Creative Commons Attribution-NonCommercial-NoDerivatives 4.0&lt;/strong>.&lt;br>
 You may share it non-commercially without modifications, with proper attribution:&lt;/p>
-&lt;div class="highlight">&lt;pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;">&lt;code class="language-markdown" data-lang="markdown">&lt;span style="display:flex;">&lt;span>Documentation by Tinyalg Systems, licensed under CC BY-NC-ND 4.0. Source: https://dev.tinyalg.be.
+&lt;div class="highlight">&lt;pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;">&lt;code class="language-markdown" data-lang="markdown">&lt;span style="display:flex;">&lt;span>Documentation by Tinyalg Systems, licensed under CC BY-NC-ND 4.0. Source: https://waveu.tinyalg.be.
 &lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/div>&lt;p>Learn more at the &lt;a href="https://creativecommons.org/licenses/by-nc-nd/4.0/">CC BY-NC-ND 4.0 License page&lt;/a>.&lt;/p>
 &lt;hr>
 &lt;h3 id="software-bsd-3-clause">

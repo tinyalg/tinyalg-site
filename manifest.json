@@ -1,6 +1,6 @@
 {
-  "name": "Tinyalg Developer Hub",
-  "short_name": "Tinyalg Developer Hub",
+  "name": "Waveu: Crafting Waveforms with ESP32",
+  "short_name": "Waveu: Crafting Waveforms with ESP32",
   "start_url": "/",
   "scope": "/",
   "display": "standalone",
