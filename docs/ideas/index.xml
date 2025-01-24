@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Ideas on Waveu: Crafting Waveforms with ESP32</title><link>https://waveu.tinyalg.be/docs/ideas/</link><description>Recent content in Ideas on Waveu: Crafting Waveforms with ESP32</description><generator>Hugo</generator><language>en</language><atom:link href="https://waveu.tinyalg.be/docs/ideas/index.xml" rel="self" type="application/rss+xml"/><item><title>Lissajous Curve</title><link>https://waveu.tinyalg.be/docs/ideas/lissajous/</link><pubDate>Fri, 24 Jan 2025 09:00:00 +0900</pubDate><guid>https://waveu.tinyalg.be/docs/ideas/lissajous/</guid><description>&lt;h1 id="lissajous-curve">
+ Lissajous Curve
+ &lt;a class="anchor" href="#lissajous-curve">#&lt;/a>
+&lt;/h1>
+&lt;p>&lt;a href="https://colab.research.google.com/github/tinyalg/waveu-ideas/blob/main/examples/lissajous/docs/lissajous.ipynb">&lt;img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab" />&lt;/a>&lt;/p>
+&lt;p>A Lissajous figure is a visual representation of the relationship between two periodic signals plotted against each other in an X-Y coordinate system, with its shape determined by the signals&amp;rsquo; frequency ratio, phase difference, and amplitudes.
+&lt;figure class="custom-figure">&lt;img src="https://waveu.tinyalg.be/images/lissajous_oscilloscope.png"
+ alt="300 Hz and 200 Hz sine waves (top) and their corresponding Lissajous curve (bottom), illustrating the relationship between frequency ratios and phase differences." width="50%">&lt;figcaption>
+ &lt;p>Figure: 300 Hz and 200 Hz sine waves (top) and their corresponding Lissajous curve (bottom), illustrating the relationship between frequency ratios and phase differences.&lt;/p></description></item></channel></rss>

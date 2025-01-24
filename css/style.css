@@ -1,0 +1,22 @@
+.custom-figure {
+    margin: 20px auto; /* Center align only this figure */
+    text-align: center;
+    background-color: #f9f9f9; /* Add a light background */
+    border: 1px solid #ddd; /* Optional border for clarity */
+    padding: 10px; /* Optional padding around the image */
+    border-radius: 5px; /* Optional rounded corners */
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1); /* Optional shadow */
+}
+
+.custom-figure img {
+    max-width: 100%; /* Ensure the image is responsive */
+    height: auto; /* Maintain the image aspect ratio */
+    border-radius: 5px; /* Match figure border radius */
+}
+
+.custom-figure figcaption {
+    font-size: 0.85em; /* Smaller text for the caption */
+    color: #6c757d; /* Gray color for captions */
+    margin-top: 8px; /* Add spacing above the caption */
+    font-style: italic; /* Optional italic styling for emphasis */
+}

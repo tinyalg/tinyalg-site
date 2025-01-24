@@ -1,9 +1,12 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Waveu: Crafting Waveforms with ESP32</title><link>https://waveu.tinyalg.be/</link><description>Recent content on Waveu: Crafting Waveforms with ESP32</description><generator>Hugo</generator><language>en</language><lastBuildDate>Thu, 23 Jan 2025 09:11:29 +0900</lastBuildDate><atom:link href="https://waveu.tinyalg.be/index.xml" rel="self" type="application/rss+xml"/><item><title>About Tinyalg</title><link>https://waveu.tinyalg.be/docs/about-tinyalg/</link><pubDate>Tue, 31 Dec 2024 08:00:00 +0900</pubDate><guid>https://waveu.tinyalg.be/docs/about-tinyalg/</guid><description>&lt;h1 id="about-tinyalg-systems">
- About Tinyalg Systems
- &lt;a class="anchor" href="#about-tinyalg-systems">#&lt;/a>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Waveu: Crafting Waveforms with ESP32</title><link>https://waveu.tinyalg.be/</link><description>Recent content on Waveu: Crafting Waveforms with ESP32</description><generator>Hugo</generator><language>en</language><lastBuildDate>Fri, 24 Jan 2025 16:15:21 +0900</lastBuildDate><atom:link href="https://waveu.tinyalg.be/index.xml" rel="self" type="application/rss+xml"/><item><title>Lissajous Curve</title><link>https://waveu.tinyalg.be/docs/ideas/lissajous/</link><pubDate>Fri, 24 Jan 2025 09:00:00 +0900</pubDate><guid>https://waveu.tinyalg.be/docs/ideas/lissajous/</guid><description>&lt;h1 id="lissajous-curve">
+ Lissajous Curve
+ &lt;a class="anchor" href="#lissajous-curve">#&lt;/a>
 &lt;/h1>
-&lt;p>Tinyalg stands for &amp;ldquo;tiny algorithms.&amp;rdquo; Even smaller—tiny—programs that implement useful algorithms, which you can understand top to bottom, can create impactful solutions when equipped with practical approaches. Our philosophy is rooted in making complex concepts accessible and actionable, enabling developers to create meaningful innovations.&lt;/p>
-&lt;p>This philosophy drives everything we do at Tinyalg Systems, forming the foundation of our missions. These missions define our commitment to empowering developers and creating impactful solutions:&lt;/p></description></item><item><title>Licenses</title><link>https://waveu.tinyalg.be/docs/licenses/</link><pubDate>Fri, 27 Dec 2024 17:00:00 +0900</pubDate><guid>https://waveu.tinyalg.be/docs/licenses/</guid><description>&lt;h2 id="licenses">
+&lt;p>&lt;a href="https://colab.research.google.com/github/tinyalg/waveu-ideas/blob/main/examples/lissajous/docs/lissajous.ipynb">&lt;img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab" />&lt;/a>&lt;/p>
+&lt;p>A Lissajous figure is a visual representation of the relationship between two periodic signals plotted against each other in an X-Y coordinate system, with its shape determined by the signals&amp;rsquo; frequency ratio, phase difference, and amplitudes.
+&lt;figure class="custom-figure">&lt;img src="https://waveu.tinyalg.be/images/lissajous_oscilloscope.png"
+ alt="300 Hz and 200 Hz sine waves (top) and their corresponding Lissajous curve (bottom), illustrating the relationship between frequency ratios and phase differences." width="50%">&lt;figcaption>
+ &lt;p>Figure: 300 Hz and 200 Hz sine waves (top) and their corresponding Lissajous curve (bottom), illustrating the relationship between frequency ratios and phase differences.&lt;/p></description></item><item><title>Licenses</title><link>https://waveu.tinyalg.be/docs/licenses/</link><pubDate>Fri, 27 Dec 2024 17:00:00 +0900</pubDate><guid>https://waveu.tinyalg.be/docs/licenses/</guid><description>&lt;h2 id="licenses">
  Licenses
  &lt;a class="anchor" href="#licenses">#&lt;/a>
 &lt;/h2>
@@ -22,7 +25,12 @@ You may share it non-commercially without modifications, with proper attribution
  Software: BSD 3-Clause
  &lt;a class="anchor" href="#software-bsd-3-clause">#&lt;/a>
 &lt;/h3>
-&lt;p>All software is licensed under the &lt;strong>BSD 3-Clause License&lt;/strong>, allowing use, modification, and redistribution with attribution.&lt;/p></description></item><item><title>Launched Waveu Site</title><link>https://waveu.tinyalg.be/posts/launched-waveu-site/</link><pubDate>Tue, 31 Dec 2024 09:00:00 +0900</pubDate><guid>https://waveu.tinyalg.be/posts/launched-waveu-site/</guid><description>&lt;h1 id="launched-waveu-site">
+&lt;p>All software is licensed under the &lt;strong>BSD 3-Clause License&lt;/strong>, allowing use, modification, and redistribution with attribution.&lt;/p></description></item><item><title>About Tinyalg</title><link>https://waveu.tinyalg.be/docs/about-tinyalg/</link><pubDate>Tue, 31 Dec 2024 08:00:00 +0900</pubDate><guid>https://waveu.tinyalg.be/docs/about-tinyalg/</guid><description>&lt;h1 id="about-tinyalg-systems">
+ About Tinyalg Systems
+ &lt;a class="anchor" href="#about-tinyalg-systems">#&lt;/a>
+&lt;/h1>
+&lt;p>Tinyalg stands for &amp;ldquo;tiny algorithms.&amp;rdquo; Even smaller—tiny—programs that implement useful algorithms, which you can understand top to bottom, can create impactful solutions when equipped with practical approaches. Our philosophy is rooted in making complex concepts accessible and actionable, enabling developers to create meaningful innovations.&lt;/p>
+&lt;p>This philosophy drives everything we do at Tinyalg Systems, forming the foundation of our missions. These missions define our commitment to empowering developers and creating impactful solutions:&lt;/p></description></item><item><title>Launched Waveu Site</title><link>https://waveu.tinyalg.be/posts/launched-waveu-site/</link><pubDate>Tue, 31 Dec 2024 09:00:00 +0900</pubDate><guid>https://waveu.tinyalg.be/posts/launched-waveu-site/</guid><description>&lt;h1 id="launched-waveu-site">
  Launched Waveu Site
  &lt;a class="anchor" href="#launched-waveu-site">#&lt;/a>
 &lt;/h1>
