@@ -6,4 +6,17 @@
 &lt;p>A Lissajous figure is a visual representation of the relationship between two periodic signals plotted against each other in an X-Y coordinate system, with its shape determined by the signals&amp;rsquo; frequency ratio, phase difference, and amplitudes.
 &lt;figure class="custom-figure">&lt;img src="https://waveu.tinyalg.be/images/lissajous_oscilloscope.png"
  alt="300 Hz and 200 Hz sine waves (top) and their corresponding Lissajous curve (bottom), illustrating the relationship between frequency ratios and phase differences." width="50%">&lt;figcaption>
- &lt;p>Figure: 300 Hz and 200 Hz sine waves (top) and their corresponding Lissajous curve (bottom), illustrating the relationship between frequency ratios and phase differences.&lt;/p></description></item></channel></rss>
+ &lt;p>Figure: 300 Hz and 200 Hz sine waves (top) and their corresponding Lissajous curve (bottom), illustrating the relationship between frequency ratios and phase differences.&lt;/p></description></item><item><title>Amplitude Modulation</title><link>https://waveu.tinyalg.be/docs/ideas/am/</link><pubDate>Fri, 24 Jan 2025 09:00:00 +0900</pubDate><guid>https://waveu.tinyalg.be/docs/ideas/am/</guid><description>&lt;h1 id="amplitude-modulation-example">
+ Amplitude Modulation Example
+ &lt;a class="anchor" href="#amplitude-modulation-example">#&lt;/a>
+&lt;/h1>
+&lt;p>&lt;a href="https://colab.research.google.com/github/tinyalg/waveu-ideas/blob/main/examples/am/docs/am.ipynb">&lt;img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab" />&lt;/a>
+&lt;a href="https://github.com/tinyalg/waveu-ideas/tree/main/examples/am">&lt;img src="https://img.shields.io/badge/Run%20on-ESP32-orange?logo=espressif" alt="Run on ESP32" />&lt;/a>&lt;/p>
+&lt;h2 id="1-what-is-amplitude-modulation">
+ 1. What is Amplitude Modulation?
+ &lt;a class="anchor" href="#1-what-is-amplitude-modulation">#&lt;/a>
+&lt;/h2>
+&lt;p>Amplitude Modulation (AM) is a method of modulating a carrier wave by varying its amplitude in proportion to the amplitude of the input signal, typically a low-frequency audio signal. The carrier wave&amp;rsquo;s frequency remains constant, but its amplitude fluctuates according to the instantaneous amplitude of the modulating signal.
+&lt;figure class="custom-figure">&lt;img src="https://waveu.tinyalg.be/images/am_oscilloscope.png"
+ alt="Amplitude-modulated wave with a carrier frequency of 500 Hz and a modulation frequency of 100 Hz." width="50%">&lt;figcaption>
+ &lt;p>Figure: Amplitude-modulated wave with a carrier frequency of 500 Hz and a modulation frequency of 100 Hz.&lt;/p></description></item></channel></rss>
