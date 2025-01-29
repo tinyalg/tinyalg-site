@@ -15,7 +15,7 @@
 }
 
 .custom-figure figcaption {
-    font-size: 0.85em; /* Smaller text for the caption */
+    font-size: 1.00em; /* Smaller text for the caption */
     color: #6c757d; /* Gray color for captions */
     margin-top: 8px; /* Add spacing above the caption */
     font-style: italic; /* Optional italic styling for emphasis */
