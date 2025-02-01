@@ -19,4 +19,19 @@
 &lt;p>Amplitude Modulation (AM) is a method of modulating a carrier wave by varying its amplitude in proportion to the amplitude of the input signal, typically a low-frequency audio signal. The carrier wave&amp;rsquo;s frequency remains constant, but its amplitude fluctuates according to the instantaneous amplitude of the modulating signal.
 &lt;figure class="custom-figure">&lt;img src="https://waveu.tinyalg.be/images/am_oscilloscope.png"
  alt="Amplitude-modulated wave with a carrier frequency of 500 Hz and a modulation frequency of 100 Hz." width="50%">&lt;figcaption>
- &lt;p>Figure: Amplitude-modulated wave with a carrier frequency of 500 Hz and a modulation frequency of 100 Hz.&lt;/p></description></item></channel></rss>
+ &lt;p>Figure: Amplitude-modulated wave with a carrier frequency of 500 Hz and a modulation frequency of 100 Hz.&lt;/p></description></item><item><title>Sweep Wave</title><link>https://waveu.tinyalg.be/docs/ideas/sweep/</link><pubDate>Sat, 01 Feb 2025 09:00:00 +0900</pubDate><guid>https://waveu.tinyalg.be/docs/ideas/sweep/</guid><description>&lt;h1 id="sweep-wave">
+ Sweep Wave
+ &lt;a class="anchor" href="#sweep-wave">#&lt;/a>
+&lt;/h1>
+&lt;p>&lt;a href="https://colab.research.google.com/github/tinyalg/waveu-ideas/blob/main/examples/sweep/docs/sweep.ipynb">&lt;img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab" />&lt;/a>
+&lt;a href="https://github.com/tinyalg/waveu-ideas/tree/main/examples/sweep">&lt;img src="https://img.shields.io/badge/Run%20on-ESP32-orange?logo=espressif" alt="Run on ESP32" />&lt;/a>&lt;/p>
+&lt;p>A &lt;strong>sweep wave&lt;/strong> is a waveform where the frequency gradually changes over time instead of remaining constant. This gradual shift in frequency is useful for analyzing system responses, testing circuits, and generating special sound effects.&lt;/p>
+&lt;figure class="custom-figure">&lt;img src="https://waveu.tinyalg.be/images/sweep_10s.png"
+ alt="(a)Frequency at midpoint of the sweep (starting from 100Hz, approaching 1000Hz)" width="50%">&lt;figcaption>
+ &lt;p>Figure: (a)Frequency at midpoint of the sweep (starting from 100Hz, approaching 1000Hz)&lt;/p>
+ &lt;/figcaption>
+&lt;/figure>
+
+&lt;figure class="custom-figure">&lt;img src="https://waveu.tinyalg.be/images/sweep_20s.png"
+ alt="(b)End of the sweep at 1000Hz" width="50%">&lt;figcaption>
+ &lt;p>Figure: (b)End of the sweep at 1000Hz&lt;/p></description></item></channel></rss>
